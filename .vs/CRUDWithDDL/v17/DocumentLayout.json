@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\shared\\pager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\shared\\pager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\models\\pager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\models\\pager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\dal\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\dal\\myappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\migrations\\20241201075737_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\migrations\\20241201075737_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|c:\\users\\dell\\source\\repos\\crudwithddl\\crudwithddl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BD86C-E7AB-4527-A2D0-704304E33C26}|CRUDWithDDL\\CRUDWithDDL.csproj|solutionrelative:crudwithddl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T20:02:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T19:59:51.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:29:06.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pager.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Models\\Pager.cs",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Models\\Pager.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Models\\Pager.cs",
+              "RelativeToolTip": "CRUDWithDDL\\Models\\Pager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T17:36:48.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:07:53.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T10:49:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T14:31:43.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T13:00:53.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Models\\Product.cs",
+              "RelativeToolTip": "CRUDWithDDL\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:25:02.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Models\\Category.cs",
+              "RelativeToolTip": "CRUDWithDDL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:23:32.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CRUDWithDDL\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:25:16.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pager.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Shared\\Pager.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Shared\\Pager.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Shared\\Pager.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Shared\\Pager.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T19:35:07.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Program.cs",
+              "RelativeToolTip": "CRUDWithDDL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:44:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\DAL\\MyAppDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\DAL\\MyAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\DAL\\MyAppDbContext.cs",
+              "RelativeToolTip": "CRUDWithDDL\\DAL\\MyAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:29:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:46:02.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\appsettings.json",
+              "RelativeToolTip": "CRUDWithDDL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T07:39:00.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T13:01:03.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:09:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:17:16.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:18:32.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUDWithDDL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:58:06.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241201075737_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Migrations\\20241201075737_Initial.cs",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Migrations\\20241201075737_Initial.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Migrations\\20241201075737_Initial.cs",
+              "RelativeToolTip": "CRUDWithDDL\\Migrations\\20241201075737_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:57:38.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDWithDDL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CRUDWithDDL\\CRUDWithDDL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDWithDDL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:39:04.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Product
+@{
+    ViewData["Title"] = "Delete Product";
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr />
+<form asp-action="Delete">
+    <input type="hidden" asp-action="Id" />
+    <div class="mb-2">
+        <label asp-for="Name" class="Control-label"></label>
+        <input asp-for="Name" class="form-control" readonly />
+        
+    </div>
+    <div class="mb-2">
+        <label asp-for="Price" class="Control-label"></label>
+        <input asp-for="Price" class="form-control" readonly />
+       
+    </div>
+    <div class="mb-2">
+        <label asp-for="Qty" class="Control-label"></label>
+        <input asp-for="Qty" class="form-control" readonly />
+       
+    </div>
+    <div class="mb-2">
+        <label class="control-label">Category</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories" disabled>
+            <option>----Select Category---</option>
+        </select>
+    </div>
+    <div>
+        <input type="submit" value="Delete" class="btn btn-danger btn-sm" />
+    </div>
+</form>

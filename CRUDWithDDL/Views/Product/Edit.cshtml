@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Product
+@{
+    ViewData["Title"] = "Update Product";
+}
+
+<h3>@ViewData["Title"]</h3>
+<hr />
+<form asp-action="Edit">
+    <input type="hidden" asp-action="Id" />
+    <div class="mb-2">
+        <label asp-for="Name" class="Control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Price" class="Control-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Qty" class="Control-label"></label>
+        <input asp-for="Qty" class="form-control" />
+        <span asp-validation-for="Qty" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label class="control-label">Category</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories">
+            <option>----Select Category---</option>
+        </select>
+    </div>
+    <div>
+        <input type="submit" value="Update" class="btn btn-success btn-sm" />
+    </div>
+</form>
