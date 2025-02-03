@@ -1,10 +1,14 @@
 using CRUDWithDDL.DAL;
+using CRUDWithDDL.Repositories.Abstract;
+using CRUDWithDDL.Repositories.Implementation;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddDbContext<MyAppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MyDbConnection")));
 
 var app = builder.Build();

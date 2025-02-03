@@ -1,5 +1,6 @@
 ﻿using CRUDWithDDL.DAL;
 using CRUDWithDDL.Models;
+using CRUDWithDDL.Repositories.Abstract;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -10,10 +11,12 @@ namespace CRUDWithDDL.Controllers
     public class ProductController : Controller
     {
         private readonly MyAppDbContext context;
+        private readonly IProductService _productService;
 
-        public ProductController(MyAppDbContext context)
+        public ProductController(MyAppDbContext context , IProductService _productService)
         {
             this.context = context;
+            this._productService = _productService;
         }
         public IActionResult Index(int pg = 1)
         {
@@ -50,9 +53,18 @@ namespace CRUDWithDDL.Controllers
         [HttpPost]
         public IActionResult Create(Product model)
         {
+
+            if (context.Products.Any(c => c.Id != model.Id && c.Name == model.Name))
+            {
+                ModelState.AddModelError(nameof(model.Name), "The Product Name must be unique.");
+            }
+            else { 
             context.Products.Add(model);
             context.SaveChanges();
             return RedirectToAction("Index");
+            }
+            return View(model);
+
         }
 
         [HttpGet]

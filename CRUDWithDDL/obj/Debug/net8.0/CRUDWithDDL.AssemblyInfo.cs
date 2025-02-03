@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDWithDDL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5248f0aab89a06a19eef26d7323360009a956d08")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDWithDDL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDWithDDL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

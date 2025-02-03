@@ -7,25 +7,43 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CRUDWithDDL.DAL;
 using CRUDWithDDL.Models;
+using CRUDWithDDL.Repositories.Abstract;
 
 namespace CRUDWithDDL.Controllers
 {
     public class CategoryController : Controller
     {
         private readonly MyAppDbContext _context;
+        private readonly ICategoryService _categoryService;
 
-        public CategoryController(MyAppDbContext context)
+        public CategoryController(MyAppDbContext context, ICategoryService categoryService )
         {
             _context = context;
+            _categoryService = categoryService;
         }
 
-        // GET: Category
-        public async Task<IActionResult> Index()
+      
+        public IActionResult Index(int pg = 1)
         {
-            return View(await _context.Category.ToListAsync());
+
+            var categories =  _context.Category.ToList();
+            const int pageSize = 2;
+            if (pg < 1)
+                pg = 1;
+
+            int recsCount = categories.Count();
+            var pager = new Pager(recsCount, pg, pageSize);
+            int recSkip = (pg - 1) * pageSize;
+
+            var data = categories.Skip(recSkip).Take(pager.PageSize).ToList();
+            this.ViewBag.Pager = pager;
+
+            return View(data);
+
+           
         }
 
-        // GET: Category/Details/5
+
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -43,20 +61,23 @@ namespace CRUDWithDDL.Controllers
             return View(category);
         }
 
-        // GET: Category/Create
+       
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Category/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+       
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,CategoryName")] Category category)
         {
-            if (ModelState.IsValid)
+
+            if (_context.Category.Any(c => c.Id != category.Id && c.CategoryName == category.CategoryName))
+            {
+                ModelState.AddModelError(nameof(category.CategoryName), "The Category Name must be unique.");
+            }
+            else
             {
                 _context.Add(category);
                 await _context.SaveChangesAsync();
@@ -65,7 +86,7 @@ namespace CRUDWithDDL.Controllers
             return View(category);
         }
 
-        // GET: Category/Edit/5
+       
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -81,9 +102,7 @@ namespace CRUDWithDDL.Controllers
             return View(category);
         }
 
-        // POST: Category/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+      
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,CategoryName")] Category category)
@@ -116,7 +135,7 @@ namespace CRUDWithDDL.Controllers
             return View(category);
         }
 
-        // GET: Category/Delete/5
+      
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -134,7 +153,6 @@ namespace CRUDWithDDL.Controllers
             return View(category);
         }
 
-        // POST: Category/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
